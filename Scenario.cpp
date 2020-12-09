@@ -96,14 +96,14 @@ void Scenario::parseDatasetConfig(const Value& dc, bool setDefaults) {
 	}
 	else if (setDefaults) direction = _DIRECTION_;
 
-	if (dc["reward"].IsArray()) {
+	/*if (dc["reward"].IsArray()) {
 		if (dc["reward"][0].IsFloat() && dc["reward"][1].IsFloat()) {
 			rewarder = new GeneralRewarder((char*)(GetCurrentModulePath() + "paths.xml").c_str(), dc["reward"][0].GetFloat(), dc["reward"][1].GetFloat());
 			reward = true;
 		}
 		else if (setDefaults) reward = _REWARD_;
 	}
-	else if (setDefaults) reward = _REWARD_;
+	else if (setDefaults) reward = _REWARD_;*/
 
 	if (!dc["throttle"].IsNull()) throttle = dc["throttle"].GetBool();
 	else if (setDefaults) throttle = _THROTTLE_;
