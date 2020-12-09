@@ -6,9 +6,9 @@
 
 
 ## Updates to the original
-This repo has updated the code to work with GTA 1.0.2060.1 (November 2020 Update).  
-Moreover the code has been updated to work with Visual Studio 2019.  
-A new wiki has also been made: https://github.com/Will-J-Gale/DeepGTAV/wiki
+1. This repo has updated the code to work with GTA 1.0.2060.1 (November 2020 Update).  
+2. The code has been updated to work with Visual Studio 2019.  
+3. A new wiki has also been made: https://github.com/Will-J-Gale/DeepGTAV/wiki
 
 ## Installation
 1. Make sure GTAV is on version 1.0.2060.1 or below
