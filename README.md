@@ -6,13 +6,13 @@
 
 
 ## Updates to the original
-1. This repo has updated the code to work with GTA 1.0.2060.1 (November 2020 Update).  
+1. This repo has updated the code to work with GTA 1.0.2189.0 (December 2020 Update).  
 2. The code has been updated to work with Visual Studio 2019.  
-3. ScriptHook has been updated to v1.0.2060.1 
+3. ScriptHook has been updated to v1.0.2189.0 
 4. A new wiki has also been made for development
 
 ## Installation
-1. Make sure GTAV is on version 1.0.2060.1 or below
+1. Make sure GTAV is on version 1.0.2189.0 or below
 2. Copy-paste the contents of *bin/Release* under your GTAV installation directory
 3. Replace your saved game data in *Documents/Rockstar Games/GTA V/Profiles/* with the contents of *bin/SaveGame*
 4. Download *[paths.xml](https://drive.google.com/file/d/0B6pR5O2YrmHnNU9EMDBSSFpMV00/view?usp=sharing)* and store it also in the GTAV installation directory. 
