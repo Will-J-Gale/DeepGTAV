@@ -6,9 +6,9 @@
 
 
 ## Updates to the original
-1. This repo has updated the code to work with GTA 1.0.2189.0 (December 2020 Update).  
+1. This repo has updated the code to work with GTA 1.0.2215.0 (February 2021 Update).  
 2. The code has been updated to work with Visual Studio 2019.  
-3. ScriptHook has been updated to v1.0.2189.0 
+3. ScriptHook has been updated to v1.0.2215.0
 4. A new wiki has also been made for development
 
 ## Installation
